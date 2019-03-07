@@ -1,4 +1,4 @@
-# Rebbeca # Size Limit [![Cult Of Martians][cult-img]][Rebbeca]
+# Rebbeca
 Query Optimizer :smile:
 
 ![](https://github.com/tuuna00/Rebbeca/logo.jpg)
