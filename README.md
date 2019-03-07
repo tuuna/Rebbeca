@@ -1,7 +1,7 @@
 # Rebbeca
 Query Optimizer :smile:
 
-![](https://github.com/tuuna00/Rebbeca/5c8085530722f03378af2600.png)
+![](https://github.com/tuuna00/Rebbeca/blob/master/5c8085530722f03378af2600.png)
 -------------------------------
 
 [![Build Status](https://travis-ci.org/pubnub/java.svg?branch=master)](https://travis-ci.org/pubnub/java)
